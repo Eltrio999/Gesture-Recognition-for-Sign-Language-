@@ -12,6 +12,7 @@ This project focuses on developing a hand gesture recognition system for sign la
 - [Dataset](#-dataset)
 - [Methodology](#-methodology)
 - [Results](#-results)
+- [Demo Video](#-demo-video)
 - [Installation](#-installation)
 
 ---
@@ -87,6 +88,14 @@ We use the American Sign Language (ASL) Digits Dataset from Kaggle:
 | F1 Score   | High       |
 
 The hybrid CNN + SVM model showed strong performance under different lighting and gesture angles compared to traditional methods.
+
+---
+
+## 🎥 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/OFP9_0B8mCQ/0.jpg)](https://www.youtube.com/watch?v=OFP9_0B8mCQ)
+
+Click the thumbnail above to watch the full video demonstration of the project.
 
 ---
 
